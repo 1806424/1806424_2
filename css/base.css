@@ -4,15 +4,9 @@ body {
     font-size: 20px;
 }
 
-h1,h2,h3{
+h1,h2{
     text-align: center;
     background-color: rgb(126, 208, 219);
-}
-
-div {
-    background-image: url(../img/toyama.png);
-    background-repeat: no-repeat;
-    background-size: 85%;
 }
 
 #menu  > ul > li {
@@ -22,7 +16,4 @@ div {
     border: 1px solid #666;
     border-radius: 4px;
     background: linear-gradient(#FFFFFF,#888888);
-
 }
-
-
